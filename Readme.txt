@@ -1,9 +1,7 @@
 SVD++ implemented. 
 
-Based in large part https://code.google.com/p/graphchi/source/browse/toolkits/collaborative_filtering/svdpp.cpp
+Based on paper: http://public.research.att.com/~volinsky/netflix/kdd08koren.pdf
+ 
+The sample data is from EMI Kaggle competition. Note: it's very sparse. 
 
-Working with EMI kaggle competition data. 
-
-Very sparse. 
-
-Still need to do some implicit data stuff. 
+Still need to do some implicit data stuff. More of a software engineering challenge than algorithmic one.
